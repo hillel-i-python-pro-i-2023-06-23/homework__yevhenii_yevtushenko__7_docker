@@ -1,7 +1,7 @@
 # Django application
 
 ---
-![Main workflow](https://github.com/hillel-i-python-pro-i-2023-06-23/homewrok__yevhenii_yevtushenko__7_docker/actions/workflows/main-workflow.yml/badge.svg)
+![Main workflow](https://github.com/hillel-i-python-pro-i-2023-06-23/homework__yevhenii_yevtushenko__7_docker/actions/workflows/main-workflow.yml/badge.svg)
 
 ## 🏠 Homework
 
